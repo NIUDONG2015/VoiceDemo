@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Heheda\VoiceDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5f86edfbedaf26f8eff44e702352717222a6ad28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Heheda\VoiceDemo\app\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="777dc2d522d26febb6983b407de3a4e8bfbe4e02">
+        <dex dex="F:\Heheda\VoiceDemo\app\build\intermediates\pre-dexed\debug\Sunflower_3d61b74741a6c6911241be534c12e3067356d682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Heheda\VoiceDemo\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2f592bfdb1dd7694fc715847747396aa2f8d8cb">
+        <dex dex="F:\Heheda\VoiceDemo\app\build\intermediates\pre-dexed\debug\Msc_4cbc480d3292fb7e4c878255389ae9ebdabdcef0.jar" />
+    </item>
+
+</items>
